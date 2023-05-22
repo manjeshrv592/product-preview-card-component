@@ -181,7 +181,6 @@ h1 {
   .product-image {
     flex-basis: 50%;
     flex-shrink: 0;
-    height: auto;
   }
 }
 
